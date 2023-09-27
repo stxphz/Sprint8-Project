@@ -15,4 +15,4 @@ The deliverables to replicate within the project:
 - Other attributes of the figure, such as font size, style, or image dimensions, may be tailored tomy preference.
 - Utilize official documentation or external references to address tasks not explicitly covered in this course section supplemented by additional resources as needed.
 
-Furthermore, there is a disclaimer stated within the project: there can be multiple valid solutions to this project. The code's specifics will depend on whether Seaborn or Plotly is opted for. And even within a single library, various methods may be employed to achieve the same outcome.
+Furthermore, there is a disclaimer stated within the project that there can be multiple valid solutions to this project. The code's specifics will depend on whether Seaborn or Plotly is opted for. And even within a single library, various methods may be employed to achieve the same outcome.
