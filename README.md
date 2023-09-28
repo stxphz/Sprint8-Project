@@ -6,6 +6,8 @@ For Sprint 8's project, we are given a dataset and a graphical representation. T
 
 The dataset encompasses the outcomes of a simulated research study, wherein 100 red squirrels were subjected to one of three distinct dietary regimes post-weaning, and their final adult weights were meticulously documented. The graphical representation presented below encapsulates the findings of this investigation and serves as the benchmark for the replication task. The choice between Seaborn and Plotly is placed by my discretion. Upon completion, we are required to submit a Jupyter Notebook in .ipynb format, inclusive of your code implementation and the resultant figure it generates. To pass, the reviewer will execute my code and juxtapose my figure against the original.
 
+![the given graphical representation of dataset to replicate](S8PROJECT_recreate-graph.png)
+
 The deliverables to replicate within the project:
 - Title and axis labels
 - Axis ticks and their respective ranges
